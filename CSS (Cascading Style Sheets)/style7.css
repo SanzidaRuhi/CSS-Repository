@@ -1,0 +1,39 @@
+.para-01{letter-spacing: 3px; text-align: left; text-indent: 10%;}
+
+.para-02{word-spacing: 10px; text-align: center;}
+
+.para-03{line-height: 30px; text-align: right;}
+
+.para-04{text-align: justify; padding: 20px; text-indent: 30px;}
+
+.text{
+    color: yellow;
+    text-shadow: 5px -5px 3px red;
+}
+
+.box{
+    background-color: yellow;
+    box-shadow: -5px 5px 3px blue;
+}
+
+.text-01{text-align: left;}
+
+.text-02{text-align: center;}
+
+.text-03{text-align: right;}
+
+.text1{text-decoration: underline;}
+
+.text2{text-decoration: line-through;}
+
+.text3{text-decoration: overline;}
+
+.text4{text-decoration: none;}
+
+.para1{text-transform: lowercase;}
+
+.para2{text-transform: uppercase;}
+
+.para3{text-transform: capitalize;}
+
+.para4{font-variant: small-caps;}

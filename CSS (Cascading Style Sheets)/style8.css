@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+}
+
+.box1{
+    background-color: blue;
+    border: 20px solid yellow;
+    padding: 20px;
+    margin: 40px;
+    width: 100px;
+    height: 100px;
+}
+
+.box2{
+    background-color: greenyellow;
+    border: 20px solid rebeccapurple;   
+}
+
+#padding1{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+#padding2{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+
+#padding3{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 40px;
+}
+
+#padding4{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding-right: 40px;
+}
+
+#padding5{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding: 40px;
+}
+
+#padding6{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding: 20px 50px;
+}
+
+#padding7{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding: 20px 40px 60px;
+}
+
+#padding8{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    padding: 20px 40px 60px 80px;
+}
+
+#border1{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border-top-width: 10px;
+    border-top-style: dashed;
+    border-top-color: black;
+    /* border-top: 10px dashed black */
+}
+
+#border2{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border-bottom-width: 10px;
+    border-bottom-style: groove;
+    border-bottom-color: black;
+}
+
+#border3{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border-left-width: 10px;
+    border-left-style: double;
+    border-left-color: black;
+}
+
+#border4{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border-right-width: 10px;
+    border-right-style: ridge;
+    border-right-color: black;
+}
+
+#border5{
+    background-color: brown;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px inset yellow;
+}
+
+#margin1{
+    background-color: red;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px outset yellow;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#margin2{
+    background-color: blue;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px outset yellow;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+#margin3{
+    background-color: green;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px dotted yellow;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+#margin4{
+    background-color: orange;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px dotted yellow;
+    padding: 10px;
+    margin-right: 40px;
+}
+
+#margin5{
+    background-color: violet;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px dotted yellow;
+    padding: 10px;
+    margin: 40px;
+}
+
+#margin6{
+    background-color: gold;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px dotted yellow;
+    padding: 10px;
+    margin: 20px 40px;
+}
+
+#margin7{
+    background-color: pink;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px dotted yellow;
+    padding: 10px;
+    margin: 20px 40px 60px;
+}
+
+#margin8{
+    background-color: yellowgreen;
+    color: azure;
+    text-align: justify;
+    font-size: 20px;
+    border: 20px dotted yellow;
+    padding: 10px;
+    margin: 20px 40px 60px 80px;
+}

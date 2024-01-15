@@ -1,0 +1,5 @@
+/*selector[attribute_name="value"]{declaration_block}*/
+h1[name="box"]{color: red;}
+[name="box"]{background-color: yellow;}
+[type]{border: 5px solid blue;}
+[alt="image"]{border: 5px solid violet;}

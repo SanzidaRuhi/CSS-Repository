@@ -1,0 +1,4 @@
+div.box p{color: brown; font-size: 30px;}/*descendent selector styles the whole part*/
+div.box1 > p{color: brown; font-size: 30px;}/*child selector styles only the child one*/
+h1 + p{color: blueviolet;}/*+SIGN use for adjacent sibling and it styles only the 2nd one*/
+h2 ~ p{color: blueviolet;}/*~SIGN use for general sibling and it styles all*/

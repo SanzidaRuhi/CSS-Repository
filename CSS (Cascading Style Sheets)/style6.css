@@ -1,0 +1,31 @@
+.text-01{font-size: small;}
+
+.text-02{font-size: smaller;}
+
+.text-03{font-size: x-small;}
+
+.text-04{font-size: xx-small;}
+
+.text-05{font-size: medium;}
+
+.text-06{font-size: large;}
+
+.text-07{font-size: x-large;}
+
+.text-08{font-size: xx-large;}
+
+.text-09{font-size: larger;}
+
+.text-10{font-size: 16pt;}
+
+.text-11{font-size: 20px;}
+
+.text-12{font-size: 2em;}/*1em=16px */
+
+.font-style1{font-style: italic;}
+
+.font-style2{font-style: oblique;}
+
+.font-style3{font-style: normal;}
+
+.font-style4{font-weight: bold;}
